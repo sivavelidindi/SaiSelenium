@@ -8,6 +8,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Reusable {
 
 	public static WebDriver driver() {
+		
+		
 
 		System.setProperty("webdriver.chrome.driver",
 				"D:\\selenium jar files\\chromedriver_win32 (1)\\chromedriver.exe");
